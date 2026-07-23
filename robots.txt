@@ -1,0 +1,53 @@
+User-agent: GPTBot
+Disallow: /blog.html
+
+User-agent: ChatGPT-User
+Disallow: /blog.html
+
+User-agent: Google-Extended
+Disallow: /blog.html
+
+User-agent: ClaudeBot
+Disallow: /blog.html
+
+User-agent: Claude-User
+Disallow: /blog.html
+
+User-agent: anthropic-ai
+Disallow: /blog.html
+
+User-agent: CCBot
+Disallow: /blog.html
+
+User-agent: Applebot-Extended
+Disallow: /blog.html
+
+User-agent: Bytespider
+Disallow: /blog.html
+
+User-agent: PerplexityBot
+Disallow: /blog.html
+
+User-agent: Perplexity-User
+Disallow: /blog.html
+
+User-agent: Amazonbot
+Disallow: /blog.html
+
+User-agent: OAI-SearchBot
+Disallow: /blog.html
+
+User-agent: Meta-ExternalAgent
+Disallow: /blog.html
+
+User-agent: Meta-ExternalFetcher
+Disallow: /blog.html
+
+User-agent: Diffbot
+Disallow: /blog.html
+
+User-agent: ImagesiftBot
+Disallow: /blog.html
+
+User-agent: *
+Allow: /
